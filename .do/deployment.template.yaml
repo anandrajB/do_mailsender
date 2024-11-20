@@ -5,7 +5,7 @@ functions:
 - github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-functions-python-sendgrid-email
+    repo: venzo-tech/DO_MailSender
   name: emails-api
   routes:
   - path: /
