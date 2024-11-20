@@ -1,0 +1,18 @@
+[
+  {
+    "apihost": "https://faas-blr1-8177d592.doserverless.co",
+    "namespace": "fn-a0613c26-e2da-4f68-a59c-7ab42b9d079f",
+    "packageVersions": {
+      "venzo-mail-sender": {
+        "version": "0.0.2",
+        "digest": "fb46a8a1f507ca1c019d6d82ae0d1c5269d8dcabc0edd5c50a5d514e4eac7cf9"
+      }
+    },
+    "actionVersions": {
+      "venzo-mail-sender/emails": {
+        "version": "0.0.2",
+        "digest": "046b1e13561db5fd9b699a5e98f42998154fcb7e795020f2f6e63fff6680e0d1"
+      }
+    }
+  }
+]

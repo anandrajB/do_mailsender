@@ -1,5 +1,5 @@
 environment:
-  API_KEY: ${API_KEY}
+  API_KEY: 'mlsn.986a26bd19e58e613ca170dc86be8a7be33f405c4d35136e6ba3cc2998b4a016'
 packages:
   - name: venzo-mail-sender
     actions:
