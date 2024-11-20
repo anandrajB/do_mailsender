@@ -46,6 +46,12 @@ curl -X PUT -H 'Content-Type: application/json' {your-DO-app-url} -d '{"from_ema
 
 ### http call
 
+
+- from_email = "myemail@domain.com"
+- from_name = "email_from_name"
+- to_email  = "toemail@gmail.com"
+- subject = "my subject"
+- content = "my email content"
 ```
 https://faas-blr1-8177d592.doserverless.co/api/v1/web/fn-a0613c26-e2da-4f68-a59c-7ab42b9d079f/venzo-mail-sender/emails/?from_email=venzotech@venzo.com&from_name=Venzo%20Tech&to_email=touser@gmail.com&subject=OTP%20Test%20Email&content=%3Cp%3EThis%20is%20a%20test%20email.%3C/p%3E
 
