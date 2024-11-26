@@ -15,7 +15,7 @@ def main(args):
                  - content: Email content (HTML format)
     :return: Dictionary containing "statusCode" and "body" indicating the result.
     """
-    key = "mlsn.986a26bd19e58e613ca170dc86be8a7be33f405c4d35136e6ba3cc2998b4a016"
+    key = "my-api-key"
     if not key:
         return {
             "statusCode": HTTPStatus.INTERNAL_SERVER_ERROR,
